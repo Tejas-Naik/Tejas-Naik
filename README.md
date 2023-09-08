@@ -1,13 +1,20 @@
-
 <h1 align="center">Hi 👋, I'm Tejas Naik</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-naik" alt="tejas-naik" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [portfolio-rntejas.netlify.app](portfolio-rntejas.netlify.app)
+
+- 💬 Ask me about **react, python, redux**
+
+- 📫 How to reach me **rntejas2005@gmail.com**
+
+- 📄 Know about my experiences [portfolio-rntejas.netlify.app/Resume-Tejas.pdf](portfolio-rntejas.netlify.app/Resume-Tejas.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rn_tejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rn_tejas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tejas-naik-219a40245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-naik-219a40245" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tejas-naik-219a40245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-naik-219a40245/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
